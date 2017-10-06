@@ -1,96 +1,96 @@
 { 
 "id" : "en",
-	"name": "English",
-"UserNameOrPasswordError":"Account non Exists or password error",
+	"name": "Русский",
+"UserNameOrPasswordError":"Пользователь не существует или не верный пароль",
 
-"ServerConnectionError": "Error Tried to Connect Server!",
+"ServerConnectionError": "Ошибка Соединения с Сервером!",
 
-"ReleaseDevice": "Unpair",
-"DeviceConnecting": "Connecting...",
+"ReleaseDevice": "Отключить",
+"DeviceConnecting": "Соединяюсь...",
 
 
-"BestClimber": "KOM",
-"BestSprinter": "SPRINT",
-"BestLooper": "BEST LAP",
+"BestClimber": "ЦГ",
+"BestSprinter": "СПРИНТ",
+"BestLooper": "ЛУЧШИЙ КРУГ",
 
-"Rank": "Rank",
-"Nickname": "Name",
-"timescore": "Time",
+"Rank": "Ранг",
+"Nickname": "Имя",
+"timescore": "Время",
 "racingRemainDistance": "Remaining",
 
-"QuitGame": "Exit",
+"QuitGame": "Выход",
 "BackToStart": "Leave",
 
-"UserLogin": "User Login",
+"UserLogin": "Имя Пользователя",
 
-"InputEmail": "Your Email",
-"InputPassword": "Your Password",
+"InputEmail": "Адрес Эл. Почты",
+"InputPassword": "Ваш Пароль",
 
-"Login": "Login",
+"Login": "Логин",
 
-"ForgetPassword": "Forget Password",
+"ForgetPassword": "Забыли Пароль?",
 
-"UserRegister": "Register",
+"UserRegister": "Регистрация",
 
-"OfflineMode": "Offline Mode",
+"OfflineMode": "Режим без сети",
 
-"OK": "OK",
-"Cancel": "Cancel",
+"OK": "Да",
+"Cancel": "Отмена",
 
-"MainDevice": "Main Device",
+"MainDevice": "Основное Устройство",
 
-"FECEquipment": "Smart Trainer",
+"FECEquipment": "Смарт Тренажёр",
 
-"NoAntPlusPluged": "Please Plug your ANT device",
+"NoAntPlusPluged": "Пожалуйста, Подлючите ANT+ устройство",
 
-"PowerDevice": "Power Meter",
+"PowerDevice": "Измеритель Мощности",
 
-"SpeedSensor": "Speed Sensor",
+"SpeedSensor": "Датчик Скорости",
 
 "AidDevice": "Aid Device",
 
-"HeartRateDevice": "Heart Rate",
+"HeartRateDevice": "Датчик Пульса",
 
-"CadenceDevice": "Cadence",
+"CadenceDevice": "Датчик частоты вращения",
 
-"SpeedAndCadenceSensor": "SOC",
+"SpeedAndCadenceSensor": "Комбинированный датчик скорости/каденса",
 
 "NearBy": "Nearby",
 
-"ConnectDevice": "Device",
+"ConnectDevice": "Устройство",
 
-"ContinueGame": "Back",
+"ContinueGame": "Назад",
 
-"AvgPower": "Avg Power",
+"AvgPower": "Ср. Мощность",
 
-"AvgSpeed": "Avg Speed",
+"AvgSpeed": "Ср. Скорость",
 
-"AvgCadence": "Avg Cadence",
+"AvgCadence": "Ср. Каденс",
 
-"AvgHeartRate": "Avg HeartRate",
+"AvgHeartRate": "Ср. Пульс",
 
-"TotalDistance": "DIS",
+"TotalDistance": "РАССТ.",
 
-"TotalTime": "Time",
+"TotalTime": "Время",
 
-"TotalCalorie": "CAL",
+"TotalCalorie": "Ккал",
 
-"TotalAscend": "ASC",
+"TotalAscend": "Набор Высоты",
 
-"LegendSpeed": "Speed(km/h)",
+"LegendSpeed": "Скорость(км/ч)",
 
-"LegendPower": "Power(km/h)",
+"LegendPower": "Мощность(ватт)",
 
-"LegendHeartRate": "HeartRate",
+"LegendHeartRate": "Частота Пульса",
 
-"LegendCadence": "Cadence",
+"LegendCadence": "Частота Вращения",
 
 "RidingData": "Riding",
 "DevicePairing": "Pairing",
 "SystemConfig": "Config",
 "PersonalConfig": "User Config",
 "CadenceDistribution": "Cadence",
-"PowerDistribution": "Power",
+"PowerDistribution": "Мощность",
 "PowerTrend": "Trend",
 "HeartDistribution": "HeartRate",
 
