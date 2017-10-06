@@ -16,7 +16,7 @@
 "Rank": "Рейтинг",
 "Nickname": "Имя",
 "timescore": "Время",
-"racingRemainDistance": "Remaining",
+"racingRemainDistance": "Остаток дистанции",
 
 "QuitGame": "Выход",
 "BackToStart": "Выйти",
@@ -55,7 +55,7 @@
 
 "SpeedAndCadenceSensor": "Комбинированный датчик скорости/каденса",
 
-"NearBy": "Nearby",
+"NearBy": "Кто рядом с вами",
 
 "ConnectDevice": "Устройство",
 
@@ -103,9 +103,9 @@
 "UserHeight": "Height",
 "UserWeight": "Weight",
 "Volumn": "Volumn",
-"SFXVolumn": "SFX Volumn",
-"ENVVolumn": "ENV Volume",
-"LanguageChangedInfo": "Some language settings will be applied next time you start Onelap",
+"SFXVolumn": "Громк. спец.эффектов",
+"ENVVolumn": "Общая громкость",
+"LanguageChangedInfo": "Изменения настройки произойдут после перезапуска Onelap",
 
 "Fullscreen": "Fullscreen",
 "Window": "Windowed",
@@ -115,18 +115,18 @@
 "DifficultyHigh": "Hard",
 "DifficultyMid": "Normal",
 "DifficultyLow": "Easy",
-"PowShowInstant": "Instant",
-"PowShow3Sec": "3s Average",
+"PowShowInstant": "Постоянная",
+"PowShow3Sec": "Средняя за 3s",
 
-"BackToLogin": "Back",
-"NextStep": "Next",
+"BackToLogin": "Назад",
+"NextStep": "Вперед",
 
 "Menu": "Menu",
 
-"NewPlan": "Add Plan",
+"NewPlan": "Новый план",
 "StartFreeRiding": "Free Riding",
-"ContinuePlan": "Continue Plan",
-"InstantTraining": "Instant Training",
+"ContinuePlan": "Продолжить план",
+"InstantTraining": "Текущая тренировка",
 
 "MON": "MON",
 "TUE": "TUE",
@@ -137,27 +137,27 @@
 "SUN": "SUN",
 
 "Back": "Back",
-"StartTrainingTime": "Choose Start Date",
-"TotalRidingTime": "Time",
+"StartTrainingTime": "Выбор даты старта",
+"TotalRidingTime": "Время",
 "Completion": "Score",
-"Leave":"Leave",
+"Leave":"Выйти",
 "BackToDevicePage": "Device Connect",
-"RecommendForYou": "Recommend For You",
-"SaveTraining": "Save",
-"UserAlreadyLoginedIn": "User Already Logined In",
-"UserNotVerify": "User Email not verified" ,
+"RecommendForYou": "Рекомендовано вам",
+"SaveTraining": "Сохранить",
+"UserAlreadyLoginedIn": "Пользователь уже подключен",
+"UserNotVerify": "Е-мейл не подтвержден!" ,
 
-"climbing": "Climb",
-"sprinting": "Sprint",
-"looping": "Loop",
+"climbing": "Апхилл",
+"sprinting": "Спрринты",
+"looping": "Круги",
 
-"FTPConfirm": "Confirm",
-"FTPGoTest": "FTP Test",
+"FTPConfirm": "указать FTP",
+"FTPGoTest": "FTP тест",
 "FTPDesc": "FTP is a key parameter to measure riders' ability. The accuracy of FTP has a significant effect on your training. You can fill your FTP in the blank directly if you have taken a FTP test recently. But we strongly suggest you taking the FTP test if you are not clear about your current FTP for optimal training.",
 "NeedDeviceConnect": "In order to taking power training, you have to pair your smart trainer of power meter",
-"TodayNoPlan":"you have no plan today",
+"TodayNoPlan":"сегодня нет трен. плана",
 "ConfirmScheduleChange": "Changing your workout date may have huge impact on your training effect, Do you confirm?",
-"InputFTPPlease": "Input FTP Here",
+"InputFTPPlease": "укажите FTP здесь",
 
 "FTPToolTip": "FTP is the maximum average power you can hold for one hour,it's the best single marker for fitness in cycling",
 "NPTooltip": "Normalized power is a more accurate way of quantifying the actual intensity of riding activities(http://help.trainingpeaks.com)",
@@ -167,7 +167,7 @@
 "ShouldResetRecord": "workout upload failed, retry?",
 "LoadingSplashText": "The accuracy of FTP have a significant effect on your training",
 
-"Delay": "Delay",
+"Delay": "Задержка",
 "FPS": "FPS",
 
 "RoomName": "Room",
@@ -194,9 +194,9 @@
 "WheelDiameter": "Wheel Diameter",
 
 // For Gear,
-"GearBikeFrame": "Frame",
-"GearWheel": "Wheel Set",
-"GearCloth": "Cycling Wearing",
+"GearBikeFrame": "Рама",
+"GearWheel": "Колеса",
+"GearCloth": "Вело-костюм",
 "GearC-Man-01": "Onelap Basic",
 "GearC-Man-02": "Onelap Basic",
 "GearC-Man-03": "Onelap Basic",
@@ -216,14 +216,14 @@
 "GearF-TT": "Basic TT",
 "GearF-Steal": "Basic Steal",
 "GearW-classic": "Classic",
-"GearW-Aero35mm": "Aero 35mm",
-"GearW-Aero50mm": "Aero 50mm",
-"GearW-Aero75mm": "Aero 75mm",
+"GearW-Aero35mm": "Аэро-обод 35 мм",
+"GearW-Aero50mm": "Аэро-обод 50 мм",
+"GearW-Aero75mm": "Аэро-обод 75 мм",
 
 
 
 // racing...
-"CreateRoom": "Create Room",
+"CreateRoom": "Новая Room",
 "ErrRoomNameEmpty": "Room Name is Empty",
 "ErrRoomPlayerNotValid": "Player Num off the limit",
 "ErrRoomMapNotChoose": "Please Choose the map",
@@ -250,7 +250,7 @@
 
 "GameSetting": "Setting",
 "GameAnnounce": "ANNC",
-"Announce": "Announcement",
+"Announce": "Объявления",
 "No-Announce": "None",
 "FeedBack": "Feedback",
 "OfficialWebSite": "Website",
@@ -390,9 +390,9 @@
 "SignUpSuccess":"Sign Up Successfully",
 "CancelSignUpSuccess":"Cancel Successfully",
 "CreateFailed":"Create Failed",
-"MapCenterPark":"Center Park",
-"MapIsland":"Island",
-"MapTemple":"Temple",
+"MapCenterPark":"Центральный Парк",
+"MapIsland":"Остров",
+"MapTemple":"Храмы",
 "MonthText":".",
 "DayText":"",
 "RideWillStart":"Ride Will Start:",
