@@ -1,7 +1,7 @@
 { 
 "id" : "en",
 	"name": "Русский",
-"UserNameOrPasswordError":"Пользователь не существует или не верный пароль",
+"UserNameOrPasswordError":"Пользователь не существует или неверный пароль",
 
 "ServerConnectionError": "Ошибка Соединения с Сервером!",
 
@@ -11,7 +11,7 @@
 
 "BestClimber": "ЦГ",
 "BestSprinter": "СПРИНТ",
-"BestLooper": "ЛУЧШИЙ КРУГ",
+"BestLooper": "ЛИДЕР КРУГА",
 
 "Rank": "Ранг",
 "Nickname": "Имя",
