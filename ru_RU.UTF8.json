@@ -1,7 +1,7 @@
 { 
 "id" : "en",
 	"name": "Русский",
-"UserNameOrPasswordError":"Пользователь не существует или неверный пароль",
+"UserNameOrPasswordError":"Имя или пароль не верны",
 
 "ServerConnectionError": "Ошибка Соединения с Сервером!",
 
@@ -10,21 +10,21 @@
 
 
 "BestClimber": "ЦГ",
-"BestSprinter": "СПРИНТ",
+"BestSprinter": "СПРИНТЕР",
 "BestLooper": "ЛИДЕР КРУГА",
 
-"Rank": "Ранг",
+"Rank": "Рейтинг",
 "Nickname": "Имя",
 "timescore": "Время",
 "racingRemainDistance": "Remaining",
 
 "QuitGame": "Выход",
-"BackToStart": "Leave",
+"BackToStart": "Выйти",
 
 "UserLogin": "Имя Пользователя",
 
-"InputEmail": "Адрес Эл. Почты",
-"InputPassword": "Ваш Пароль",
+"InputEmail": "Е-мейл",
+"InputPassword": "Пароль",
 
 "Login": "Логин",
 
@@ -104,7 +104,7 @@
 "UserWeight": "Weight",
 "Volumn": "Volumn",
 "SFXVolumn": "SFX Volumn",
-"ENVVolumn": "ENV Volumn",
+"ENVVolumn": "ENV Volume",
 "LanguageChangedInfo": "Some language settings will be applied next time you start Onelap",
 
 "Fullscreen": "Fullscreen",
