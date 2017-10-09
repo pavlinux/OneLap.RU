@@ -156,7 +156,7 @@
 "FTPDesc": "FTP является ключевым параметром для оценки способностей гонщика. Точность измерения FTP оказывает значительное влияние на ваши тренировки. Вы можете указать свой FTP вручную, если вы недавно проводили FTP-тестирование. Но мы настоятельно рекомендуем вам пройти тест FTP, если вы не знаете свой текущий FTP",
 "NeedDeviceConnect": "In order to taking power training, you have to pair your smart trainer of power meter",
 "TodayNoPlan":"сегодня нет трен. плана",
-"ConfirmScheduleChange": "Changing your workout date may have huge impact on your training effect, Do you confirm?",
+"ConfirmScheduleChange": "Изменение даты тренировки может оказать огромное влияние на ваш тренировочный эффект. Вы подтверждаете?",
 "InputFTPPlease": "укажите FTP здесь",
 
 "FTPToolTip": "FTP is the maximum average power you can hold for one hour,it's the best single marker for fitness in cycling",
