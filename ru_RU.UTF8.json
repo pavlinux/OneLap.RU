@@ -153,7 +153,7 @@
 
 "FTPConfirm": "указать FTP",
 "FTPGoTest": "FTP тест",
-"FTPDesc": "FTP is a key parameter to measure riders' ability. The accuracy of FTP has a significant effect on your training. You can fill your FTP in the blank directly if you have taken a FTP test recently. But we strongly suggest you taking the FTP test if you are not clear about your current FTP for optimal training.",
+"FTPDesc": "FTP является ключевым параметром для оценки способностей гонщика. Точность измерения FTP оказывает значительное влияние на ваши тренировки. Вы можете указать свой FTP вручную, если вы недавно проводили FTP-тестирование. Но мы настоятельно рекомендуем вам пройти тест FTP, если вы не знаете свой текущий FTP",
 "NeedDeviceConnect": "In order to taking power training, you have to pair your smart trainer of power meter",
 "TodayNoPlan":"сегодня нет трен. плана",
 "ConfirmScheduleChange": "Changing your workout date may have huge impact on your training effect, Do you confirm?",
