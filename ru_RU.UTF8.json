@@ -160,12 +160,12 @@
 "InputFTPPlease": "укажите FTP здесь",
 
 "FTPToolTip": "FTP is the maximum average power you can hold for one hour,it's the best single marker for fitness in cycling",
-"NPTooltip": "Normalized power is a more accurate way of quantifying the actual intensity of riding activities(http://help.trainingpeaks.com)",
+"NPTooltip": "Normalized Power - усреднённые (нормализованные) значения мощности (http://help.trainingpeaks.com)",
 "TSSTooltip": "Training Stress Score is the best viewed as a predictor of the amount of glycogen utilized in each workout(http://help.trainingpeaks.com)",
 "CompTooltip": "Score mesures how well the actual power in this training session fits the objective",
 "IFTooltip": "Intensity Factor provides a valid and convenient way of comparing the relative intensity of a training session(http://help.trainingpeaks.com)",
 "ShouldResetRecord": "workout upload failed, retry?",
-"LoadingSplashText": "The accuracy of FTP have a significant effect on your training",
+"LoadingSplashText": "Точность FTP может значительно сказаться на эффективности вашей тренировки",
 
 "Delay": "Задержка",
 "FPS": "FPS",
