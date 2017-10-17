@@ -497,10 +497,10 @@
 "Helmet":"Шлем",
 "Remain":"Remain",
 "EquipmentInitResourceFail": "Измененить нельзя! Ошибка чтения базы экипировки!",
-"Acquired": "Acquired",
-"Expired": "Expired",
-"Equip": "Equip",
-"NoMapLine": "No Map Line",
-"RuleReward": "Rules"
+"Acquired": "Получено",
+"Expired": "Истекает",
+"Equip": "Оборудование",
+"NoMapLine": "Пока нет маршрута",
+"RuleReward": "Правила Вознаграждения"
 
 }
