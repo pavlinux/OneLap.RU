@@ -10,8 +10,8 @@
 
 
 "BestClimber": "ЦГ",
-"BestSprinter": "СПРИНТЕР",
-"BestLooper": "ЛИДЕР КРУГА",
+"BestSprinter": "Лучший Спринтер",
+"BestLooper": "Лидер",
 
 "Rank": "Рейтинг",
 "Nickname": "Имя",
@@ -69,7 +69,7 @@
 
 "AvgHeartRate": "Ср. Пульс",
 
-"TotalDistance": "РАССТ.",
+"TotalDistance": "Расстояние",
 
 "TotalTime": "Время",
 
@@ -86,7 +86,7 @@
 "LegendCadence": "Частота вращения",
 
 "RidingData": "Чтение данных",
-"Deviceing": "Связывание устройств",
+"Deviceing": "Подключение устройств",
 "SystemConfig": "Общие настройки",
 "PersonalConfig": "Личные настройки",
 "CadenceDistribution": "Каденс",
@@ -95,7 +95,7 @@
 "HeartDistribution": "Частота Пульса",
 
 "Resolution": "Разрешение",
-"DisplayMode": "Дисплей",
+"DisplayMode": "Режим",
 "ScreenQuality": "Качество",
 "Language": "Язык",
 "Difficulty": "Сложность",
@@ -212,10 +212,10 @@
 "GearC-Girl-01": "Onelap Basic",
 "GearC-Girl-soomom01": "Soomom Suit 1",
 "GearC-Girl-soomom02": "Soomom Suit 2",
-"GearF-Aero": "Basic Aero",
-"GearF-Carbon": "Basic Carbon",
-"GearF-TT": "Basic TT",
-"GearF-Steal": "Basic Steal",
+"GearF-Aero": "Аэро, групповой",
+"GearF-Carbon": "Обычный, групповой",
+"GearF-TT": "TT",
+"GearF-Steal": "Классик, стальная",
 "GearW-classic": "Classic",
 "GearW-Aero35mm": "Аэро-обод 35 мм",
 "GearW-Aero50mm": "Аэро-обод 50 мм",
@@ -269,8 +269,8 @@
 "NetworkFailReTry": "Сетевая ошибка во время отправки. Повторить?",
 "PowerLockNotice": "Ошибка заполнения. Исправьте данные!",
 
-"InputYourStationInfo": "Укажите Фирму и модель",
-"DeviceBand": "Фирма",
+"InputYourStationInfo": "Укажите производителя и модель",
+"DeviceBand": "Производитель",
 "DeviceType": "Модель",
 "DeviceInputStationNotice": "*Отправив нам данные о своем тренажере вы поможете и нам и себе!",
 "ThanksForYourSupport": "Спасибо, принято!",
@@ -284,7 +284,7 @@
 "TeamList": "Список команд",
 "TodayMatch": "Сегодняшние гонки",
 "CalendarBtn": "Календарь",
-"NoPairing": "Нет связи между устройств",
+"NoPairing": "Нет связи между устройствами",
 "NoMatchToday": "Нет к сравнению",
 "NoTeamNow": "Нет групп",
 "StartRiding": "Старт",
@@ -342,7 +342,7 @@
 "StartTraining": "Старт",
 
 "EncounterProblem?": "Столкнулись с проблемой?",
-"PointToSee0": "Пожалуйста, проверье",
+"PointToSee0": "Пожалуйста, проверьте",
 "PointToSee1": " FAQ ",
 "PointToSee2": ", большинство проблем можно решить",
 "ProblemDescDesc1": "Если не нашли решения, свяжитесь с нами",
@@ -367,16 +367,16 @@
 "ActEnded": "Окончено",
 "OpenFitDirectory": "Открыть папку с файлами FIT",
 
-"WeightChangeTimes00": "Только одно измененеие в месяц",
+"WeightChangeTimes00": "Только одно изменение в месяц",
 "WeightChangeTimes01": "Осталось, раз",
 "WeightChangeTimes02": "Раз",
-"PutEnterToEnter": "Нажмите ENTER для входа",
+"PutEnterToEnter": "Нажмите Enter для входа",
 "SendSendSend": "Отправить",
 "UpdateUpdate": "Обновить",
 "NoUpdateUpdate": "Обновлений нет",
 
 "UpdateFTPDesc00": "Ваш новый FTP ::",
-"UpdateFTPDesc01": "Обновитть данные?",
+"UpdateFTPDesc01": "Обновить данные?",
 
 "UploadingRecord": "Экспорт данных...",
 "RidingTooShort": "Запись не может быть сохранена - минимальное расстояние не пройдено (20 км)!",
@@ -423,7 +423,7 @@
 "InfoMonth":"Месяц",
 "Man":"Муж",
 "Woman":"Жен",
-"FinishRegister":"Закончить регистрацию",
+"FinishRegister":"Завершить",
 "Finish":"Регистрация завершена",
 "CompleteInfo":"Заполните все поля",
 "IDCodeError":"номер ID не верен или просрочен",
