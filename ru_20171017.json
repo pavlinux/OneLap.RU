@@ -62,33 +62,22 @@
 "ContinueGame": "Назад",
 
 "AvgPower": "Ср. Мощность",
-
 "AvgSpeed": "Ср. Скорость",
-
 "AvgCadence": "Ср. Каденс",
-
 "AvgHeartRate": "Ср. Пульс",
-
-"TotalDistance": "РАССТ.",
-
+"TotalDistance": "Дистан.",
 "TotalTime": "Время",
-
 "TotalCalorie": "Ккал",
-
-"TotalAscend": "Набор Высоты",
-
+"TotalAscend": "Подъём",
 "LegendSpeed": "Скорость (км/ч)",
-
 "LegendPower": "Мощность(ватт)",
-
 "LegendHeartRate": "Частота пульса",
-
 "LegendCadence": "Частота вращения",
 
 "RidingData": "Чтение данных",
 "Deviceing": "Связывание устройств",
-"SystemConfig": "Общие настройки",
-"PersonalConfig": "Личные настройки",
+"SystemConfig": "Система",
+"PersonalConfig": "Персональные",
 "CadenceDistribution": "Каденс",
 "PowerDistribution": "Мощность",
 "PowerTrend": "Тренд мощности",
@@ -124,7 +113,7 @@
 "Menu": "Меню",
 
 "NewPlan": "Новый план",
-"StartFreeRiding": "Свободная катание",
+"StartFreeRiding": "Свободное катание",
 "ContinuePlan": "Продолжить план",
 "InstantTraining": "Текущая тренировка",
 
@@ -167,7 +156,7 @@
 "ShouldResetRecord": "workout upload failed, retry?",
 "LoadingSplashText": "Точность FTP может значительно сказаться на эффективности вашей тренировки",
 
-"Delay": "Задержка",
+"Delay": "Задерж.",
 "FPS": "FPS",
 
 "RoomName": "Комната",
@@ -188,7 +177,7 @@
 
 "RememberPassword": "Запомнить Пароль",
 
-"AdviseStationLevel": "Уровени нагрузки",
+"AdviseStationLevel": "Уровни нагрузки",
 "FreeRiding": "Свободное катание",
 "RoomNotAuth": "Пароль не верен!",
 "WheelDiameter": "Диаметр колеса",
@@ -251,18 +240,18 @@
 
 "GameSetting": "Выбор",
 "GameAnnounce": "Объявления в гонке",
-"Announce": "Объявления",
+"Announce": "Анонс",
 "No-Announce": "Без объявлений",
 "FeedBack": "Отзыв",
-"OfficialWebSite": "Website",
+"OfficialWebSite": "Сайт",
 "Okey": "Ok",
-"NetworkProblem": "Ошибка сети",
-"GameBug": "Ошибка программы",
-"ImproveTips": "Улучшения",
+"NetworkProblem": "Сеть?",
+"GameBug": "Программа?",
+"ImproveTips": "Идея?",
 "ProblemDesc": "Описание проблемы",
 "PleaseDescribeYourProblem": "Опишите проблему (максимум 1000 знаков)",
-"Contact": "Контакт",
-"Submit": "Отправить",
+"Contact": "Контакты",
+"Submit": "Послать",
 "SubmitSucc" : "Отправлено!",
 "SubmitSuccDesc": "Спасибо за отзыв!",
 "SubmitFail" : "Ошибка отправки",
@@ -312,7 +301,7 @@
 "TeamJoinPassword": "Пароль",
 "MatchPlayerNum": "Гонщики",
 "SuggestWKG": "Предлагаемая Мощность",
-"AVGSlope": "Средний уклон, %",
+"AVGSlope": "Ср. уклон, %",
 "MatchMap": "Карта",
 "SignMeUp": "Войти",
 "ChooseMode": "Изменить",
@@ -354,7 +343,7 @@
 "LittleTeam": "Группа",
 "SendMsgTooFast": "Подождите...",
 "QuitRoom": "Выйти из Комнаты",
-"ChangeGear": "Экипировка",
+"ChangeGear": "Форма",
 "ChangeView": "Камера",
 "RacingResult": "Рейтинг",
 "OfficialActIsOut": "Сервер перегружен, гонка не возможна",
@@ -371,7 +360,7 @@
 "WeightChangeTimes01": "Осталось, раз",
 "WeightChangeTimes02": "Раз",
 "PutEnterToEnter": "Нажмите Enter для входа",
-"SendSendSend": "Отправить",
+"SendSendSend": "Да",
 "UpdateUpdate": "Обновить",
 "NoUpdateUpdate": "Обновлений нет :(",
 
@@ -437,7 +426,7 @@
 "ResgisterSuccess":"Регистрация завершена!",
 "SendIDCode":"Отправьте номер ID",
 "InputNickName":"Укажите имя",
-"Birthday":"Дата дня рождения",
+"Birthday":"Дата",
 "ChangePasswordSuccess":"Изменение пароля завершено",
 "RequestMore":"Request More",
 "NoAccount":"Такой аккаунт не существует",
